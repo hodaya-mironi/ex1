@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/hoday/Desktop/cmakeQuickStart/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -g   -o CMakeFiles\\Main.dir\\anomaly_detection_util.cpp.obj -c C:\\Users\\hoday\\Desktop\\cmakeQuickStart\\anomaly_detection_util.cpp",
+  "file": "C:/Users/hoday/Desktop/cmakeQuickStart/anomaly_detection_util.cpp"
+},
+{
+  "directory": "C:/Users/hoday/Desktop/cmakeQuickStart/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -g   -o CMakeFiles\\Main.dir\\main.cpp.obj -c C:\\Users\\hoday\\Desktop\\cmakeQuickStart\\main.cpp",
+  "file": "C:/Users/hoday/Desktop/cmakeQuickStart/main.cpp"
+}
+]

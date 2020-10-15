@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hoday/Desktop/cmakeQuickStart/anomaly_detection_util.cpp
+anomaly_detection_util.h
+C:/Users/hoday/Desktop/cmakeQuickStart/anomaly_detection_util.h
+math.h
+-
+
+C:/Users/hoday/Desktop/cmakeQuickStart/anomaly_detection_util.h
+
